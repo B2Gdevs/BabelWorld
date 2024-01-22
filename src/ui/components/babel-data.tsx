@@ -14,6 +14,7 @@ interface BabelDataComponentProps {
 export const BabelDataComponent: React.FC<BabelDataComponentProps> = ({ data }) => {
   return (
     <div>
+        <div className="p-4 bg-blue-500 text-white">Hello, world!</div>
       <h1>Babel Data</h1>
       <h2>Stories</h2>
       <pre>{JSON.stringify(data.stories, null, 2)}</pre>
