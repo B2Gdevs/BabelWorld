@@ -1,0 +1,52 @@
+{
+  "name": "babelworld",
+  "displayName": "BabelWorld",
+  "description": "An enhancement to the babel extension of vscode allowing users to create characters, events, scenes, and etc for stories while maintaining versioning using babel",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "babelworld.showStories",
+        "title": "Show Stories"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "pnpm run compile && pnpm run webpack",
+    "compile": "tsc -p ./",
+    "webpack": "webpack --config webpack.config.js",
+    "watch": "tsc -watch -p ./",
+    "pretest": "pnpm run compile && pnpm run lint",
+    "lint": "eslint src --ext ts",
+    "test": "node ./out/test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.3",
+    "@types/node": "18.x",
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "@types/vscode": "^1.85.0",
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0",
+    "@vscode/test-electron": "^2.3.6",
+    "eslint": "^8.52.0",
+    "glob": "^10.3.10",
+    "mocha": "^10.2.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

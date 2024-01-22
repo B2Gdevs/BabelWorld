@@ -1,0 +1,149 @@
+{
+  "stories": [
+    {
+      "title": "Beanstalk: The Pantheon",
+      "created": 1705786455399,
+      "submissionHistory": {},
+      "versions": [
+        "6305caf5-ac4a-4575-8fe2-46a717023f95"
+      ],
+      "id": "8fe5866a-d5bd-421f-9472-37239fa40bbf"
+    },
+    {
+      "title": "Beanstalk: The Giants",
+      "created": 1705786478483,
+      "submissionHistory": {},
+      "versions": [
+        "7631fbae-1448-4226-b399-267b7e17ae0e"
+      ],
+      "id": "863fe07c-920a-4b20-a59e-80e5e3c49cf0"
+    },
+    {
+      "title": "Beanstalk: The BAD Era",
+      "created": 1705786523333,
+      "submissionHistory": {},
+      "versions": [
+        "775f97a5-4fb3-49fe-9f25-38caac72d93f",
+        "efcdea3d-41d0-4ff6-8165-0b8cd7ad1d2f",
+        "4037f6d7-59af-4a1f-9c3f-e3d6ce612063"
+      ],
+      "id": "a58218c8-5c02-4742-b88c-d0f87996cd41"
+    },
+    {
+      "title": "Beanstalk: The Curse",
+      "created": 1705786552444,
+      "submissionHistory": {},
+      "versions": [
+        "ed880b0b-0865-4d33-b2bf-9c259599081a"
+      ],
+      "id": "1b96cc40-1881-459d-86b5-fcc83a3cb9bb"
+    },
+    {
+      "title": "Beanstalk: The End",
+      "created": 1705786565480,
+      "submissionHistory": {},
+      "versions": [
+        "92a693c2-9860-4d65-9ce8-2351779ee157"
+      ],
+      "id": "415d4850-2f01-4fa8-a773-acd069d25918"
+    },
+    {
+      "title": "Beanstalk: The War",
+      "created": 1705786588108,
+      "submissionHistory": {},
+      "versions": [
+        "b6c0fd4c-eefe-43e7-adf7-7d1c7ba4ab7f"
+      ],
+      "id": "21f0152e-2c02-4f83-aa11-88f325277595"
+    }
+  ],
+  "versions": [
+    {
+      "storyId": "8fe5866a-d5bd-421f-9472-37239fa40bbf",
+      "name": "draft",
+      "wordCount": 0,
+      "created": 1705786455400,
+      "statistics": {},
+      "id": "6305caf5-ac4a-4575-8fe2-46a717023f95"
+    },
+    {
+      "storyId": "863fe07c-920a-4b20-a59e-80e5e3c49cf0",
+      "name": "draft",
+      "wordCount": 0,
+      "created": 1705786478483,
+      "statistics": {},
+      "id": "7631fbae-1448-4226-b399-267b7e17ae0e"
+    },
+    {
+      "storyId": "a58218c8-5c02-4742-b88c-d0f87996cd41",
+      "name": "draft",
+      "wordCount": 1,
+      "created": 1705786523334,
+      "statistics": {},
+      "id": "775f97a5-4fb3-49fe-9f25-38caac72d93f",
+      "modified": 1705790363716
+    },
+    {
+      "storyId": "1b96cc40-1881-459d-86b5-fcc83a3cb9bb",
+      "name": "draft",
+      "wordCount": 0,
+      "created": 1705786552444,
+      "statistics": {},
+      "id": "ed880b0b-0865-4d33-b2bf-9c259599081a"
+    },
+    {
+      "storyId": "415d4850-2f01-4fa8-a773-acd069d25918",
+      "name": "draft",
+      "wordCount": 0,
+      "created": 1705786565480,
+      "statistics": {},
+      "id": "92a693c2-9860-4d65-9ce8-2351779ee157"
+    },
+    {
+      "storyId": "21f0152e-2c02-4f83-aa11-88f325277595",
+      "name": "draft",
+      "wordCount": 0,
+      "created": 1705786588125,
+      "statistics": {},
+      "id": "b6c0fd4c-eefe-43e7-adf7-7d1c7ba4ab7f"
+    },
+    {
+      "storyId": "a58218c8-5c02-4742-b88c-d0f87996cd41",
+      "name": "asdf",
+      "wordCount": 0,
+      "created": 1705790186195,
+      "statistics": {},
+      "id": "efcdea3d-41d0-4ff6-8165-0b8cd7ad1d2f"
+    },
+    {
+      "storyId": "a58218c8-5c02-4742-b88c-d0f87996cd41",
+      "name": "revision",
+      "wordCount": 1,
+      "created": 1705790587058,
+      "statistics": {},
+      "id": "4037f6d7-59af-4a1f-9c3f-e3d6ce612063",
+      "modified": 1705790593888
+    }
+  ],
+  "backups": [
+    {
+      "timestamp": 1705786411458,
+      "localPath": "/Users/bgarrard/Documents/BabelWorkspaceBackups/babel-2024-01-20.backup.zip",
+      "cloudProviders": [],
+      "id": "2a60c8de-2c2d-4782-869e-38878678d37b"
+    }
+  ],
+  "activity": [
+    {
+      "date": "2024-01-20",
+      "entries": [
+        {
+          "storyId": "a58218c8-5c02-4742-b88c-d0f87996cd41",
+          "wordCount": 1,
+          "initialWordCount": 0
+        }
+      ],
+      "id": "3fe9a8c4-1d12-4dc2-82b9-d4e4cff9e514"
+    }
+  ]
+}
